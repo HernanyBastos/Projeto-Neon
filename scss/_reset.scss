@@ -7,3 +7,16 @@
     outline: none;
     border: none;
 }
+
+img{
+    max-width: 100%;
+    display: block;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+html, body{
+    overflow-x: hidden;
+}
